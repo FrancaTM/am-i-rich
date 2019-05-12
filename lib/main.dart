@@ -12,8 +12,8 @@ void main() {
         ),
         body: Center(
           child: Image(
-              image: NetworkImage(
-                  'https://grayline.is/files/5415/3493/3126/northern-lights-deluxe-in-iceland.jpg')),
+            image: AssetImage('images/diamond.png'),
+          ),
         ),
       ),
     ),
